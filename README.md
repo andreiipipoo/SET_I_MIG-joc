@@ -5,3 +5,4 @@ Es tracta d'aconseguir acostar-se al 7 i 1/2, sense sobrepassar-lo.
 
 ## Versions
 1. Implementació del joc amb piles i funcionament senzill del joc.
+2. Versió1 + implementació que si el jugador es vol plantar o vol una altra carta.
